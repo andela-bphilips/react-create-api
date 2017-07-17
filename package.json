@@ -1,0 +1,37 @@
+{
+  "name": "react-create-api",
+  "version": "1.0.0",
+  "description": "a cli starker kit that bootstrap react app with REST api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "api",
+    "rest",
+    "npm",
+    "easy",
+    "cli",
+    "js",
+    "bootstrap",
+    "start",
+    "sql",
+    "postgres",
+    "mysql",
+    "sequelize",
+    "orm"
+  ],
+  "author": "Philips Blessing",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "figlet": "^1.2.0",
+    "inquirer": "^3.1.0",
+    "jsonfile": "^3.0.0",
+    "lodash": "^4.17.4",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "touch": "^1.0.0"
+  }
+}
